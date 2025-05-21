@@ -50,19 +50,6 @@ This website is designed to provide a seamless and engaging experience for visit
 
 Feel free to customize the content and styles to match your preferences. You can update the images, text, and other elements as needed.
 
-## Contact
-
-For any inquiries or support, please contact us at:
-- **Address**: beside Barshal Water Tank, Manpur, Barhanti, West Bengal 723156
-- **Phone**: 09007062180
-- **Email**: your-email@example.com
-
-Follow us on social media:
-- Instagram
-- YouTube
-- WhatsApp
-- LinkedIn
-
 ## Live Site
 
 https://notyourtype-github.github.io/kingsukhguesthouse/
